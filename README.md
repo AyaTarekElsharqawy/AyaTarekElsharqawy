@@ -9,14 +9,14 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 I'm a motivated and detail-oriented **Full-Stack Developer** passionate about building clean, scalable, and maintainable applications.  
 Currently completing my **Professional Training Program at ITI (Open Source Track)**.
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 **Frontend:**  
 React, Next.js, Vue.js, Angular, JavaScript, TypeScript, HTML5, CSS3, TailwindCSS, Bootstrap
@@ -32,7 +32,7 @@ GitHub, Postman, XAMPP, REST API
 
 ---
 
-### 🛠 Featured Projects
+### Featured Projects
 
 - 🎯 [Job Board Platform - Backend (Laravel)](https://github.com/AyaTarekElsharqawy/job_board_laravel.git)  
 - 🎯 [Job Board Platform - Frontend (Vue.js)](https://github.com/AyaTarekElsharqawy/job-board.git)  
@@ -44,7 +44,7 @@ GitHub, Postman, XAMPP, REST API
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - MEARN Stack Development - ITI  
 - TypeScript, MongoDB, SQL, Modern JavaScript – MaharaTech  
@@ -53,14 +53,14 @@ GitHub, Postman, XAMPP, REST API
 
 ---
 
-### 🎓 Education
+###  Education
 
 - **B.Sc. Computer Science**, Minya University (GPA: 3.3)  
 - **Open Source Track**, ITI – Intake 45
 
 ---
 
-### 🌐 Let's Connect!
+###  Let's Connect!
 
 📧 Email: [aya.tarek.elsharqawy@gmail.com](mailto:aya.tarek.elsharqawy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aya-tarek-galal)  
